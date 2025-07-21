@@ -18,7 +18,7 @@ en cuestiones de seguridad para el programa tenemos los siguientes aspectos:
 - El sistema solicita una **clave de acceso** al inicio (configurada como `123`).
 - Si el usuario falla 3 veces, el sistema se cierra.
 
-<h1 style="color: #2ecc71; font-size: 48px;">Cómo se usa?</h1>
+<h1 style="color: #2ecc71; font-size: 48px;">¿Cómo compilar y ejecutar este programa?</h1>
 
 1. Compila el proyecto en **Code::Blocks** (`Build` > `Build`).
 2. Ejecuta el programa (`Run` > `Run`).
